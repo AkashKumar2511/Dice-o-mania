@@ -1,5 +1,7 @@
 ## The Dice Game
 <br>
+Live : https://akashkumar2511.github.io/Simple-Dice-Game/
+<br><br>
 Rules to play :
 <br>
 --------------
