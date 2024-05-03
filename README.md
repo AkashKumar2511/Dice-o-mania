@@ -1,6 +1,6 @@
 ## The Dice Game
 <br>
-**Live** : https://akashkumar2511.github.io/Simple-Dice-Game/
+**Live** : https://akashkumar2511.github.io/Dice-o-mania/
 <br><br>
 Rules to play
 <br>
