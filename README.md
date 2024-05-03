@@ -1,7 +1,12 @@
 ## The Dice Game
+
 <br>
 **Live** : https://akashkumar2511.github.io/Dice-o-mania/
 <br><br>
+
+![image](https://github.com/AkashKumar2511/Dice-o-mania/assets/120348515/118caa7e-dbcc-4c7f-9a82-5a434bb89a4c)
+
+<br>
 Rules to play
 <br>
 --------------
